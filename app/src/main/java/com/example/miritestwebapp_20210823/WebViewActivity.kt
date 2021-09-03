@@ -24,7 +24,7 @@ class WebViewActivity : AppCompatActivity() {
         mWebSettings.setDomStorageEnabled(true)
         mWebView.loadUrl("http://miritest.net")
     }
-    override fun onBackPressed() {
+//    override fun onBackPressed() {
 //        super.onBackPressed()
-    }
+//    }
 }
