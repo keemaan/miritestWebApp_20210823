@@ -1,4 +1,4 @@
-package com.example.miritestwebapp_20210823
+package com.miritest.miritestwebapp_20210823
 
 import org.junit.Test
 

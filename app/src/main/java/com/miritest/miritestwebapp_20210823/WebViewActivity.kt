@@ -1,4 +1,4 @@
-package com.example.miritestwebapp_20210823
+package com.miritest.miritestwebapp_20210823
 
 import android.os.Bundle
 import android.webkit.WebSettings
@@ -24,7 +24,7 @@ class WebViewActivity : AppCompatActivity() {
         mWebSettings.setDomStorageEnabled(true)
         mWebView.loadUrl("http://miritest.net")
     }
-//    override fun onBackPressed() {
+    override fun onBackPressed() {
 //        super.onBackPressed()
-//    }
+    }
 }

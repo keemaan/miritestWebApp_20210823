@@ -1,14 +1,9 @@
-package com.example.miritestwebapp_20210823
+package com.miritest.miritestwebapp_20210823
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import android.webkit.WebView
-import android.webkit.WebSettings
-
-import android.webkit.WebViewClient
-import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
